@@ -1,4 +1,4 @@
-package com.mupper.almasamavidalibre
+package com.mupper.almasanavidalibre
 
 import org.junit.Test
 

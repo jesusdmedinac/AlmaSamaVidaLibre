@@ -1,4 +1,4 @@
-package com.mupper.almasamavidalibre.ui.theme
+package com.mupper.almasanavidalibre.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
